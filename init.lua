@@ -663,7 +663,7 @@ require('lazy').setup({
         pyright = {},
         yamlls = {},
         html = {},
-        java_language_server = {},
+        -- java_language_server = {},
         jsonls = {},
         robotframework_ls = {},
         -- rust_analyzer = {},
